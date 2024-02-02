@@ -8,6 +8,9 @@ author = "Domin Network"
 github = "domin-network"
 url = "https://www.domin.network"
 keywords = "Domin Network, Blockchain, Web3, Open data"
+Title = "Domin Network"
+imageURL = "/images/DOMIN-icon.jpg"
+content = "Consumer Data Empowerment | Author of ERC-6672  | Multi-chain Support  "
 
 [[params.social]]
 name = 'twitter'
@@ -20,6 +23,11 @@ url = 'https://github.com/Domin-Network'
 [[params.social]]
 name = 'email'
 url = 'mailto:contact@redreamer.io'
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
 
 [[menu.main]]
 name = 'Home'
