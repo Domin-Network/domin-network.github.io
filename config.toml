@@ -18,6 +18,10 @@ url = 'https://github.com/Domin-Network'
 name = 'email'
 url = 'mailto:contact@redreamer.io'
 
-[module]
-[module.hugoVersion]
-min = "0.75.0"
+[[menu.main]]
+name = 'Home'
+url = '/'
+
+[[menu.main]]
+name = 'About'
+url = '/about/'
