@@ -1,10 +1,10 @@
-baseURL = 'https://blog.snapnetwork.io/'
+baseURL = 'https://blog.domin.network/'
 languageCode = 'en-us'
-title = 'SNAP Network'
-theme = "github-style"
+title = 'Domin Network'
+theme = "JuiceBar"
 
 [params]
-author = "SNAP Network"
-github = "RedeemProtocol"
-url = "https://www.snapnetwork.io"
-keywords = "SNAP Network, Blockchain, Web3"
+author = "Domin Network"
+github = "domin-network"
+url = "https://www.domin.network"
+keywords = "Domin Network, Blockchain, Web3, Open data"
